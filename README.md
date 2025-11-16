@@ -1,2 +1,2 @@
-# Programacion
+# https://github.com/Kornxx/Programacion.git
 tryhard
