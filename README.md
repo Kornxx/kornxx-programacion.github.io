@@ -1,1 +1,1 @@
-https://github.com/Kornxx/Programacion.git
+programacion.github.io
